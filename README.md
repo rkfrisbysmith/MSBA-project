@@ -29,7 +29,7 @@ Tomato plants are prone to a variety of diseases, many of which cause visible ch
 🛠️ Project Details
 
 Dataset
-- Source: ???
+- Source: https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
 - Classes: Healthy, Early Blight, Late Blight (or other labeled diseases)
 - Preprocessing:
   - ???
