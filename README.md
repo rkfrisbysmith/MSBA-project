@@ -25,6 +25,7 @@ Tomato plants are prone to a variety of diseases, many of which cause visible ch
 - Jupyter Notebooks
 
 🌱 Future Implications
+
 The integration of AI-driven disease detection in agriculture holds significant promise for enhancing crop management and sustainability. By employing computer vision techniques to monitor plant health, farmers can:
 - Achieve Early Detection: Identifying diseases at an initial stage allows for prompt intervention, reducing crop loss and minimizing the need for extensive pesticide use.
 
@@ -35,10 +36,12 @@ The integration of AI-driven disease detection in agriculture holds significant 
 - Promote Sustainable Practices: Reducing reliance on chemical treatments through accurate disease management supports environmentally friendly farming methods and helps preserve biodiversity.
 
 Looking ahead, the development of mobile applications or integration with existing farm management systems could make this technology even more accessible to farmers around the world. By leveraging AI-driven tools that provide real-time insights into crop health, farmers can make better-informed decisions, adopt more sustainable practices, and respond quickly to potential threats—especially in regions where expert agronomic support is limited.
+
 A recent study published in Environmental Modelling & Software emphasizes the role of AI in transforming agriculture by advancing climate resilience, food security, and sustainable development. The research underscores the importance of AI in enabling data-driven decision-making that aligns with global efforts to combat climate change and improve agricultural efficiency.
 Incorporating AI into everyday agricultural practices doesn't just improve productivity—it represents a critical step toward building resilient, technology-enabled food systems for the future.
 
 🤖 Responsible AI Considerations
+
 While AI offers powerful tools for agricultural innovation, it's essential to ensure that its development and deployment are ethical, inclusive, and equitable. In the context of AI-based disease detection for crops, we considered several responsible AI principles:
 Equity & Access
 AI should benefit farmers across all socioeconomic backgrounds—not just large-scale or well-funded operations. There's a risk that these technologies could widen the digital divide, making the rich richer while leaving smallholder and marginalized farmers behind. To counter this:
