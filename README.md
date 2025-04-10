@@ -1,14 +1,8 @@
 # 🌿 AI-Powered Tomato Leaf Disease Detection
 Using computer vision to identify diseases in tomato plants through image analysis
 
-👥 Author List
+
 ![JustTryingSomething](https://github.com/user-attachments/assets/267c3ce7-b0b1-4f81-a1a5-0eaf406f0139)
-
-Your Name
-
-Teammate 1
-
-Teammate 2
 
 Each GitHub profile should include a complete README with a professional bio.
 
