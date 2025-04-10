@@ -1,13 +1,21 @@
 # 🌿 AI-Powered Tomato Leaf Disease Detection
 Using computer vision to identify diseases in tomato plants through image analysis
 
-📌 Overview
+👥 Author List
+Your Name
 
-This project explores how Artificial Intelligence, particularly computer vision techniques, can be applied to agriculture by analyzing images of tomato leaves. By detecting color patterns and anomalies in leaf images, we aim to identify signs of plant diseases early, helping farmers take timely action.
+Teammate 1
 
-🧠 AI Focus: Vision in AI
+Teammate 2
 
-Our work falls under the "Vision in AI" category, leveraging image data and machine learning models to automate the identification of disease symptoms based on visible patterns and discoloration in leaves.
+Each GitHub profile should include a complete README with a professional bio.
+
+🧠 Project Summary
+
+This project investigates how computer vision, a subfield of Artificial Intelligence (AI), can be used to detect diseases in tomato plants by analyzing images of their leaves. We aim to build a model that recognizes visible signs—such as discoloration, spots, or texture changes—to identify whether a tomato leaf is healthy or diseased to help farmers and the agriculture industry.
+
+Our work is part of the broader "Vision in AI" category, applying deep learning and image processing to real-world agricultural challenges. The project is intentionally narrow in scope: we focus specifically on tomato leaves and disease detection through image-based classification, using Convolutional Neural Networks (CNNs) trained on public datasets. This technology can help automate plant disease identification, reduce manual labor, and support farmers with timely, data-driven decisions.
+
 
 🔍 Problem Statement
 
@@ -23,6 +31,36 @@ Tomato plants are prone to a variety of diseases, many of which cause visible ch
 - OpenCV for image processing
 - CNNs (Convolutional Neural Networks)
 - Jupyter Notebooks
+
+🛠️ Project Details
+
+Dataset
+- Source: ???
+- Classes: Healthy, Early Blight, Late Blight (or other labeled diseases)
+- Preprocessing:
+  - ???
+
+Model Architecture
+  - Type: ???
+  - Framework: TensorFlow/Keras (or PyTorch, depending on what you used)
+  - Layers:
+    - 
+- Training:
+  - ??
+  - Epochs: ??
+  - Optimizer: ???
+  - Loss Function: ???
+
+Evaluation Metrics
+- Accuracy
+- Precision / Recall
+- Confusion Matrix
+- Visual comparison of predicted vs actual labels
+
+Output
+- Trained model capable of real-time classification of tomato leaf images
+- ??
+
 
 🌱 Future Implications
 
@@ -60,9 +98,18 @@ Models trained on narrow or imbalanced datasets may fail to generalize across di
 - Encourage community-driven contributions to the dataset
 By incorporating these considerations, we aim to build AI systems that not only perform well but also support fairness, transparency, and long-term sustainability in agriculture.
 
+🖼️ Key Visuals
+(Add visuals here)
 
-Author list
+- Example images of healthy vs. diseased leaves
+- Model architecture diagram
+- Confusion matrix
+- Training/validation accuracy and loss plots
+- Example predictions with probability scores
 
-Visuals to add
+📚 References
 
-Reference List
+- Schut, M., Klerkx, L., Sartas, M., & Velten, S. (2024). Artificial intelligence in agriculture: Opportunities for climate resilience, food security, and sustainable development. Environmental Modelling & Software.
+Link to paper
+
+
