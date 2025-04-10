@@ -61,6 +61,7 @@ Models trained on narrow or imbalanced datasets may fail to generalize across di
 By incorporating these considerations, we aim to build AI systems that not only perform well but also support fairness, transparency, and long-term sustainability in agriculture.
 
 
+Author list
 
 Visuals to add
 
