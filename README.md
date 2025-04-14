@@ -32,6 +32,10 @@
 
 ![ModelFairnessUseThis](https://github.com/user-attachments/assets/260fdfca-d62a-4b34-a140-b1f277da56a5)
 
+![Visuals ](https://github.com/user-attachments/assets/dfa6af73-a08c-47b7-9439-5d715322a32d)
+
+![Visualpt2](https://github.com/user-attachments/assets/a2bba6de-4afc-4d4a-988d-9c01c2687b26)
+
 
 ![References](https://github.com/user-attachments/assets/77ebefb6-74b6-4b0d-b911-f4807b9cada7)
 
