@@ -33,18 +33,6 @@
 ![ModelFairnessUseThis](https://github.com/user-attachments/assets/260fdfca-d62a-4b34-a140-b1f277da56a5)
 
 
-🖼️ Key Visuals
-(Add visuals here)
-
-- Example images of healthy vs. diseased leaves
-- Model architecture diagram
-- Confusion matrix
-- Training/validation accuracy and loss plots
-- Example predictions with probability scores
-
-📚 References
-
-- Schut, M., Klerkx, L., Sartas, M., & Velten, S. (2024). Artificial intelligence in agriculture: Opportunities for climate resilience, food security, and sustainable development. Environmental Modelling & Software.
-Link to paper
+![References](https://github.com/user-attachments/assets/77ebefb6-74b6-4b0d-b911-f4807b9cada7)
 
 
