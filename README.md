@@ -1,36 +1,22 @@
 ![AiTitleUse](https://github.com/user-attachments/assets/e3b0c3c8-fe15-476e-916c-872e11607e49)
 
-![JustTryingSomething](https://github.com/user-attachments/assets/267c3ce7-b0b1-4f81-a1a5-0eaf406f0139)
+![Hi,We'reTeam18](https://github.com/user-attachments/assets/a3ea3b99-4328-4b56-8d14-a6589f29dc06)
 
+<p float="left">
+  <a href="https://github.com/rkfrisbysmith"><img src="https://github.com/user-attachments/assets/0696b04b-a74d-4510-9178-9fdb8164ab02" width="325" /></a>
+  <a href="https://github.com/jzvikonyaukwa"><img src="https://github.com/user-attachments/assets/e88ee39a-e546-492d-8304-67effc59aaa8" width="325" /></a>
+  <a href="https://github.com/mo-silvis"><img src="https://github.com/user-attachments/assets/3d8065f9-61a7-4946-a4fa-d49eb2cd6113" width="325" /></a>
+</p>
 
-🧠 Project Summary
+![AI-ProjectSummary](https://github.com/user-attachments/assets/f38c1f97-9931-4dd6-90a8-3ed379a84faa)
 
-This project investigates how computer vision, a subfield of Artificial Intelligence (AI), can be used to detect diseases in tomato plants by analyzing images of their leaves. We aim to build a model that recognizes visible signs—such as discoloration, spots, or texture changes—to identify whether a tomato leaf is healthy or diseased to help farmers and the agriculture industry.
+![Problem Statement](https://github.com/user-attachments/assets/8c77c5a5-5bdc-49ae-b994-d008d15db188)
 
-Our work is part of the broader "Vision in AI" category, applying deep learning and image processing to real-world agricultural challenges. The project is intentionally narrow in scope: we focus specifically on tomato leaves and disease detection through image-based classification, using Convolutional Neural Networks (CNNs) trained on public datasets. This technology can help automate plant disease identification, reduce manual labor, and support farmers with timely, data-driven decisions.
+![AI-ToolsTech](https://github.com/user-attachments/assets/57f8a028-c491-49e8-9670-3e418cd7dd07)
 
+[![AI-ProjectDetails](https://github.com/user-attachments/assets/308a4e61-8bb3-40ea-9536-140084eb267d)](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage)
 
-🔍 Problem Statement
-
-Tomato plants are prone to a variety of diseases, many of which cause visible changes in the color and texture of their leaves. Manual identification is time-consuming and often inaccurate. Our goal is to build a system that can:
-- Automatically classify tomato leaf images as healthy or diseased
-- Detect specific diseases based on leaf color changes
-- Improve efficiency in crop monitoring using AI
-
-
-🧰 Tools & Technologies
-- Python
-- TensorFlow / Keras or PyTorch (mention the one you used)
-- OpenCV for image processing
-- CNNs (Convolutional Neural Networks)
-- Jupyter Notebooks
-
-🛠️ Project Details
-
-Dataset
-- Source: https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
-- Classes:
-  ![AIProjectClasses](https://github.com/user-attachments/assets/4a42ffce-ce03-4c8b-a987-9999d4794271)
+![AI-ProjectDetailsClasses](https://github.com/user-attachments/assets/49ad9dfc-5464-4796-90e0-5d913a97683b)
 
 - Preprocessing:
   - ???
@@ -56,42 +42,18 @@ Output
 - Trained model capable of real-time classification of tomato leaf images
 - ??
 
+![FutureImplicationsTop](https://github.com/user-attachments/assets/74022439-c040-4203-86cf-6e284b3139d4)
 
-🌱 Future Implications
+![FutureImplicationsBottom](https://github.com/user-attachments/assets/c5973299-03ca-4664-a817-55f76bab2d5c)
 
-The integration of AI-driven disease detection in agriculture holds significant promise for enhancing crop management and sustainability. By employing computer vision techniques to monitor plant health, farmers can:
-- Achieve Early Detection: Identifying diseases at an initial stage allows for prompt intervention, reducing crop loss and minimizing the need for extensive pesticide use.
+![ResponsibleAIpt1](https://github.com/user-attachments/assets/82ae55dc-46f2-48da-9227-a4429630ece0)
 
-- Optimize Resource Use: Targeted treatments based on precise disease identification can lead to more efficient use of water, fertilizers, and pesticides.
+![Equity Access](https://github.com/user-attachments/assets/26a80b2f-34b3-4a22-ad51-fb4cdb8426f8)
 
-- Enhance Yield Prediction: Continuous monitoring and data collection enable better forecasting of crop yields, aiding in supply chain planning.
+![DataPrivacyUseThis](https://github.com/user-attachments/assets/98e125d0-bf56-422b-bad1-54be9136115e)
 
-- Promote Sustainable Practices: Reducing reliance on chemical treatments through accurate disease management supports environmentally friendly farming methods and helps preserve biodiversity.
+![ModelFairnessUseThis](https://github.com/user-attachments/assets/260fdfca-d62a-4b34-a140-b1f277da56a5)
 
-Looking ahead, the development of mobile applications or integration with existing farm management systems could make this technology even more accessible to farmers around the world. By leveraging AI-driven tools that provide real-time insights into crop health, farmers can make better-informed decisions, adopt more sustainable practices, and respond quickly to potential threats—especially in regions where expert agronomic support is limited.
-
-A recent study published in Environmental Modelling & Software emphasizes the role of AI in transforming agriculture by advancing climate resilience, food security, and sustainable development. The research underscores the importance of AI in enabling data-driven decision-making that aligns with global efforts to combat climate change and improve agricultural efficiency.
-Incorporating AI into everyday agricultural practices doesn't just improve productivity—it represents a critical step toward building resilient, technology-enabled food systems for the future.
-
-🤖 Responsible AI Considerations
-
-While AI offers powerful tools for agricultural innovation, it's essential to ensure that its development and deployment are ethical, inclusive, and equitable. In the context of AI-based disease detection for crops, we considered several responsible AI principles:
-Equity & Access
-AI should benefit farmers across all socioeconomic backgrounds—not just large-scale or well-funded operations. There's a risk that these technologies could widen the digital divide, making the rich richer while leaving smallholder and marginalized farmers behind. To counter this:
-- We advocate for open-source solutions
-- We support the development of low-cost, offline-compatible tools that can run on mobile devices in rural areas
-- Future versions could offer multi-language support and region-specific training data for local relevance
-Data Privacy
-Images and data collected from farms may contain sensitive information. It's important to ensure:
-- Informed consent when collecting data from users
-- Secure data storage and transmission
-- Transparency around how data is used and who has access
-Model Fairness & Bias
-Models trained on narrow or imbalanced datasets may fail to generalize across different regions, climates, or tomato plant varieties. We aim to:
-- Include diverse training data
-- Monitor for bias in predictions
-- Encourage community-driven contributions to the dataset
-By incorporating these considerations, we aim to build AI systems that not only perform well but also support fairness, transparency, and long-term sustainability in agriculture.
 
 🖼️ Key Visuals
 (Add visuals here)
