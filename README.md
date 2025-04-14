@@ -14,33 +14,11 @@
 
 ![AI-ToolsTech](https://github.com/user-attachments/assets/57f8a028-c491-49e8-9670-3e418cd7dd07)
 
-[![AI-ProjectDetails](https://github.com/user-attachments/assets/308a4e61-8bb3-40ea-9536-140084eb267d)](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage)
+[![PD1](https://github.com/user-attachments/assets/cc21988c-b4c4-4f09-a802-71f755119410)](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage)
 
-![AI-ProjectDetailsClasses](https://github.com/user-attachments/assets/49ad9dfc-5464-4796-90e0-5d913a97683b)
+![PD2](https://github.com/user-attachments/assets/005ecf62-1834-403b-8b7e-1502d5767eaf)
 
-- Preprocessing:
-  - ???
-
-Model Architecture
-  - Type: ???
-  - Framework: TensorFlow/Keras (or PyTorch, depending on what you used)
-  - Layers:
-    - 
-- Training:
-  - ??
-  - Epochs: ??
-  - Optimizer: ???
-  - Loss Function: ???
-
-Evaluation Metrics
-- Accuracy
-- Precision / Recall
-- Confusion Matrix
-- Visual comparison of predicted vs actual labels
-
-Output
-- Trained model capable of real-time classification of tomato leaf images
-- ??
+![PD3](https://github.com/user-attachments/assets/7a910922-73c2-4927-bdce-bf3d2f5bc364)
 
 ![FutureImplicationsTop](https://github.com/user-attachments/assets/74022439-c040-4203-86cf-6e284b3139d4)
 
